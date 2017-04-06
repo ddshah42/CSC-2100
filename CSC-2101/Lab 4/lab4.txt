@@ -1,0 +1,23 @@
+a.
+
+i. false
+ii. true
+iii. false
+iv. true
+v. false
+vi. true
+vii. false
+viii. false
+
+b.
+
+if (old == true)
+{
+	age == 100;
+}
+
+
+c. 
+
+if (input < 0 || input > 365 )
+	cout << "Invalid input!"

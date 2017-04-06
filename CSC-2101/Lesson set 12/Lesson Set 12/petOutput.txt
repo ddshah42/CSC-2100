@@ -1,0 +1,30 @@
+
+
+PET NAME:  Bram Crockett
+
+DESCRIPTION:  Black cat with green eyes.  Likes to sleep on feet.
+
+AGE: 8
+
+DANGEROUS: yes
+-------------------------
+
+
+PET NAME:  Mouth Crockett
+
+DESCRIPTION:  Black and white cat with dark eyes.  Loud.  Loves to be petted.  Likes sleeping on clothes that have been worn.
+
+AGE: 2
+
+DANGEROUS: no
+-------------------------
+
+
+PET NAME:  Yella Cat Crockett
+
+DESCRIPTION:  Yellow cat with green eyes.  Most loving and friendly cat - great with kids.  Very stupid.  Must watch when walking because he does not move to get out of your way.  Doesnt mind being dressed in doll clothes.
+
+AGE: 2
+
+DANGEROUS: no
+-------------------------
